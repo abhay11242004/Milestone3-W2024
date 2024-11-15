@@ -5,7 +5,14 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace HPlusSport.Security.Web.Controllers;
-
+/*Course: 		Web Programming 3
+* Assessment: 	Milestone 3
+* Created by: 	Abhay Patel - 2261385
+* Date: 		14 November 2025
+* Class Name: 	ShopController.cs
+* Description: 	Manages the functionality for shopping such as adding order to cart or getting the orders, etc.
+* Time Task B):	1 hour
+ */
 [Authorize]
 public class ShopController : Controller
 {

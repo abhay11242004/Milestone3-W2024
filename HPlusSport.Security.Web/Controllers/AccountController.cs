@@ -6,7 +6,14 @@ using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 
 namespace HPlusSport.Security.Web.Controllers;
-
+/*Course: 		Web Programming 3
+* Assessment: 	Milestone 3
+* Created by: 	Abhay Patel - 2261385
+* Date: 		14 November 2025
+* Class Name: 	AccountController.cs
+* Description: 	Manages the user logings and logouts.
+* Time Task B):	1 hour
+ */
 public class AccountController : Controller
 {
     private readonly ShopContext _context;
